@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 40px;
+    background-color: white;
+}
+
+.header{
+    margin: 5px;
+}
+
+.rightSection{
+    display: flex;
+    gap: 20px;
+}

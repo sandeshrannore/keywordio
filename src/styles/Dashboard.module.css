@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    width: 100vw;
+}
+
+.leftSection{
+    display: flex;
+}
+
+.rightSection{
+    display: flex;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
